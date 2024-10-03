@@ -12,4 +12,11 @@ Las funciones que tiene el WorldWideWeb-Browser es mostrar la informacion de for
 4. Que significa WorldWideWeb-Browser?: 
 El significado de WorldWideWeb-Browser es una __red informatica mundial__, es un sistema que funciona a traves de de internet.
 
-5. ¿
+5. ¿Cual fue el segundo navegador World Wide Web Browser?:
+El segundo navegador de la World Wide Web Browser fue __Line Mode Browser__ este navegador fue creado en 1991, este segundo navegador web fue el 1º en ser compatible con varios sistemas operativos. Por otra parte de su atractivo que se encontraba en que el navegador operaba en diferentes lineas de comandos, lo que significa que podía portar fácilmente a otros sistemas operativos y terminales.
+
+6. ¿
+
+[(https://ichef.bbci.co.uk/ace/ws/549/cpsprodpb/12636/production/_105981357_firstproposalmarch1989.jpg.webp)
+[World Wide Web](https://ik.imagekit.io/aoi3fgebjgr/wp-content/uploads/1990/12/browser-2.gif)
+[The Web’s First (And Second) Browser](https://ik.imagekit.io/aoi3fgebjgr/wp-content/uploads/1990/12/browser-2.gif)
