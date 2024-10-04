@@ -1,6 +1,5 @@
 # WorldWideWeb-Browser-
 
-
 1. Que es WorldWideWeb Browser?:
 El WorldWideWeb Browser es un __navegador web__y __editor de paginas web__ en modo grafico para el sistema operativo __ NEXTSTEP__, este navegador es conocido como la primera __aplicacion informatica__ de este tipo. tiempo despues del lanzamiento, fue nombrado __NEXUS__ para evitar confusiones con el concepto _World Wide Web__.
 
@@ -22,5 +21,4 @@ La World Wide Web un navegador web más tarde fue rebautizdo con el nombre de __
 
 [World Wide Web](https://ik.imagekit.io/aoi3fgebjgr/wp-content/uploads/1990/12/browser-2.gif)
 
->>>>>>> 8c96eaadfb02a15d772ed107759ad826630b367b:Practica exposición/README.md
 [The Web’s First (And Second) Browser](https://ik.imagekit.io/aoi3fgebjgr/wp-content/uploads/1990/12/browser-2.gif)
