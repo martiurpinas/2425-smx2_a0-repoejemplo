@@ -53,4 +53,4 @@ Respuesta.
 
 
 Flujo de trabajo (navegador, petición, servidor y respuesta):
-![Imagen2](https://github.com/Marioto33/ASIX1_M4_UF1_A2_EvaluacionInicial/blob/main/imagen%202.png)
+|![Imagen2](https://github.com/Marioto33/ASIX1_M4_UF1_A2_EvaluacionInicial/blob/main/imagen%202.png)|
